@@ -1,4 +1,4 @@
-#
+V#
 # This is a Shiny web application. You can run the application by clicking
 # the 'Run App' button above.
 #
@@ -13,7 +13,7 @@ library(shiny)
 ui <- fluidPage(
 
     # Application title
-    titlePanel("Old Faithful Geyser Data"),
+    titlePanel("DENV Data"),
 
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
